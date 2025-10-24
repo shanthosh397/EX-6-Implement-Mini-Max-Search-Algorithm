@@ -172,5 +172,5 @@ print("Draw!" if r=="Draw" else f"{r} wins!")
 
 
 <hr>
-<h2>Result:</h2>
+<h2>RESULT:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
