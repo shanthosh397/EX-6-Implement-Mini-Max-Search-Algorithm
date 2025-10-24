@@ -23,7 +23,6 @@ To apply this, let's take an example from near the end of a game, where it is my
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/498656fc-79ce-4234-a623-06568bad8dda)
 
-
 If the top of this image represents the state of the game I see when it is my turn, then I have some choices to make, there are three places I can play, one of which clearly results in me wining and earning the 10 points. If I don't make that move, O could very easily win. And I don't want O to win, so my goal here, as the first player, should be to pick the maximum scoring move.
 
 But What About O?
@@ -156,7 +155,6 @@ while True:
 r = win()
 print("Draw!" if r=="Draw" else f"{r} wins!")
 ```
-
 <hr>
 <h2>INPUT AND OUTPUT:</h2>
 
@@ -167,9 +165,6 @@ print("Draw!" if r=="Draw" else f"{r} wins!")
 <img width="473" height="709" alt="image" src="https://github.com/user-attachments/assets/5c8ef055-063f-4ba7-b6ea-e6b7e81e4aaf" />
 
 <img width="562" height="315" alt="image" src="https://github.com/user-attachments/assets/c950b75e-39d0-40ec-ac77-16b5106adfbb" />
-
-
-
 
 <hr>
 <h2>RESULT:</h2>
